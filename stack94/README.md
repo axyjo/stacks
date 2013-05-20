@@ -1,0 +1,1 @@
+Emulates stack94 to the best of my ability.
